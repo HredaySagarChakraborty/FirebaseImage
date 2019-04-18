@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092556680079",
+    "firebase_url": "https://fir-image-f8594.firebaseio.com",
+    "project_id": "fir-image-f8594",
+    "storage_bucket": "fir-image-f8594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092556680079:android:dfd5121258c67a9c",
+        "android_client_info": {
+          "package_name": "comp.example.hreday.firebaseimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092556680079-62kshc42n8uutgv5tn3m66ov9oiitfj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6U_z3-ceK7_3gPzDEopTV9BogqH16z20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
